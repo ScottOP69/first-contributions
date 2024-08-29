@@ -1,6 +1,6 @@
 
 # Contributors
-- [Tejas Sheldekar](From NON-IT background trying to break the stereotypes) **Lol, Already feel a part of the community**
+- [Tejas Sheldekar](https://github.com/ScottOP69) **Lol, Already feel a part of the community**
 - [Xiao Liu](https://github.com/XiaoLiu8811) **Hello github**
 -[Felipe calle](https://github.com/Felipe0987) **Hello This is so good :J**
 - [S Mahesh](https://github.com/Mahe9041) **Ready to start my first open source journey**
